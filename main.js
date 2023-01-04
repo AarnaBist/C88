@@ -128,7 +128,7 @@ function my_keydown(e)
     new_image('unique.png');
     console.log("u");
    }
-   if(keyPressed == '99')
+   if(keyPressed == '67')
    {
     new_image('cloud.jpg');
     console.log("c");
